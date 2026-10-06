@@ -549,7 +549,9 @@ button:focus-visible {
 /*
 le style ajouter pour mieux organizer la page de contact 
 */
-
+.form_in{
+  text-align: center;
+}
 
 .form_in label {
   display: block;
@@ -558,9 +560,10 @@ le style ajouter pour mieux organizer la page de contact
 
 
 }
-input[type="text"] , input[type="email"],textarea {
-  width: 100px;
-  border :1px solid red;
-  background-color: #047857;
-  color:#1F2937;
+input,textarea {
+  width: 100%;
+  height: 50%;
+  border :1px solid #6E3529;
+  color: #047857;
+  
 }
