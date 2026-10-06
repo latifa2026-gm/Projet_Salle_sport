@@ -545,3 +545,14 @@ button:focus-visible {
   font-size: 13px;
   color: #94A3B8;
 }
+
+/*
+le style ajouter pour mieux organizer la page de contact 
+*/
+
+.form_in
+{
+  background-color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
