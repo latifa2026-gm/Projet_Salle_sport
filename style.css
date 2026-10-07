@@ -625,5 +625,5 @@ fieldset {
 }
 
 #btn_contact:hover {
-  background-color: #444;
+  background-color: hsl(114, 79%, 54%);
 }
