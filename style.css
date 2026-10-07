@@ -599,7 +599,6 @@ fieldset {
   font-size: 14px;
   box-sizing: border-box;
 }
-
 /* zone de commentaire */
 #form_in textarea {
   height: 120px;
@@ -610,15 +609,15 @@ fieldset {
  */
 #form_in input:focus,
 #form_in textarea:focus {
-  outline: none;
+   outline: none; 
   border-color: #222;
 }
 
-/* bouuton */
+/* bouton */
 #btn_contact {
   background-color: #222;
   color: white;
-  border: none !important;
+  border: none ;
   cursor: pointer;
   font-weight: 600;
   margin-top: 5px;
