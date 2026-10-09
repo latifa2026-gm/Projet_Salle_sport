@@ -75,14 +75,9 @@ Pour gérer efficacement les changements dans un projet web, il faut :
 4. Tester les fonctionnalités
 5. Améliorer le résultat grâce aux retours du client
 
-## Outils de gestion
-
-Des outils comme **Trello**, **Jira**, **GitHub** et **GitLab** facilitent l’organisation des tâches et la collaboration entre développeurs.
-
----
 
 ## Conclusion
 
-**Agile** favorise l’adaptation, **Scrum** structure le travail en Sprints et **Kanban** permet de visualiser les tâches. Le choix de la méthode dépend des besoins du projet et de l’équipe. L’objectif est de travailler efficacement, de satisfaire le client et de livrer un produit de qualité.
+**Agile**  favorise l’adaptation, **Scrum** structure le travail en Sprints et **Kanban** permet de visualiser les tâches. Le choix de la méthode dépend des besoins du projet et de l’équipe. L’objectif est de travailler efficacement, de satisfaire le client et de livrer un produit de qualité.
 ---
 
